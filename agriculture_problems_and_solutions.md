@@ -228,6 +228,38 @@ While MSP is announced for 23 crops, procurement is largely focused on wheat and
 - **Financial Strain on Government Budgets**: MSP procurement places a heavy financial burden on government budgets, with food subsidy expenditure estimated at Rs. 2.06 lakh crore in FY 2023-24.
 
 ---
+### Q17. Why do farmers rely on traditional, low-yield practices?
+
+High costs of modern machinery, seeds, and fertilizers deter small and marginal farmers from adopting advanced methods. Traditional methods, despite being less efficient, are less capital-intensive and seen as a safer option. Many farmers, especially in remote areas, lack access to modern equipment, irrigation systems, and soil testing services. A 2021 survey found that only 13% of farmers in India had access to mechanized tools. Farmers are also often hesitant to switch to untested methods due to the fear of potential crop failure.
+
+---
+
+### Q18. What stops farmers from transitioning to organic or precision farming?
+
+**High Initial Investment:** Transitioning to precision farming requires significant capital to procure equipment like GPS-enabled devices, drones, and sensors. Similarly, organic farming involves certification costs, which can range from Rs.20,000 to Rs.50,000 per farm per year in India.
+
+**Delayed Returns:** Organic farming often results in lower yields during the initial transition phase, typically lasting 2-3 years, discouraging farmers who depend on immediate returns to sustain their livelihoods.
+
+**Lack of Awareness:** Many farmers are unaware of the long-term benefits of organic and precision farming. According to a 2022 ICAR survey, only 12% of farmers understood the basics of precision agriculture tools. There are insufficient training programs or extension services to educate farmers on using precision technologies or organic farming techniques effectively.
+
+**Lack of Incentives:** Precision and organic farming have limited policy support compared to conventional practices. For instance, subsidies favor chemical fertilizers over organic inputs. Moreover, existing schemes promoting organic farming, such as Paramparagat Krishi Vikas Yojana (PKVY), have limited reach and insufficient funding. In 2023, only 4.9% of India's agricultural area was certified organic, reflecting the scheme's limited impact. Precision farming faces similar neglect, as subsidies for advanced tools like drones or GPS-enabled equipment are available only to a small percentage of farmers, mostly large-scale ones.
+
+---
+
+### Q19. Why is there no efficient mechanism for crop storage and transportation?
+
+India's storage capacity is inadequate, with over 30% of agricultural produce, particularly fruits and vegetables, lost post-harvest due to a lack of proper facilities. The country has a shortfall of nearly 35 million metric tons of cold storage against the total demand of 75 million metric tons, according to a 2023 report by NABARD Consultancy Services Pvt. Ltd (NABCONS). Farmers who attempt to use private cold storage face prohibitive costs, making these solutions unviable for small and marginal farmers. For example, cold storage rental costs in 2023 ranged from ₹150 to ₹200 per quintal per month, a price many cannot afford. Also, the government schemes like the Gramin Bhandaran Yojana and Agriculture Infrastructure Fund have not achieved significant scale due to lack of awareness among farmers.
+
+Regarding transportation, most rural areas lack robust transportation infrastructure, such as all-weather roads and efficient rail links. Perishable commodities often perish during transit due to delays and lack of temperature-controlled vehicles.
+
+---
+
+### Q20. How can land fragmentation issues be resolved?
+
+**Farmer Producer Organizations (FPOs):** Aggregating small landholdings under Farmer Producer Organizations (FPOs) is a practical solution to address the problem of land fragmentation. FPOs enable small and marginal farmers to pool their resources for joint activities like purchasing inputs, using shared machinery, or selling produce. This significantly reduces per-unit costs of production. For example, studies have shown that members of FPOs save 10-15% on input costs due to bulk procurement. By aggregating their produce, farmers under FPOs can meet the volume requirements of institutional buyers, processors, and exporters. This eliminates intermediaries and ensures better prices. For instance, FPOs in Maharashtra have enabled members to sell directly to retail chains like Reliance Fresh and Big Basket, fetching 20-30% higher returns.
+
+**Joint Ownership:** Promoting joint ownership policies can significantly mitigate the adverse effects of land fragmentation without requiring legal changes in ownership. According to NABARD, collective farming under joint ownership or FPOs can increase net profits by 20-30% for participating farmers. Moreover, larger, consolidated landholdings under joint operations enable the implementation of modern farming techniques like mechanization, precision farming, and high-yield cropping patterns, which are challenging on small, fragmented lands. Governments in states like Andhra Pradesh and Karnataka have initiated programs that incentivize joint cultivation efforts. For instance, cooperative farming societies are eligible for subsidies on equipment and inputs, which help reduce overall costs.
+
 
 
 
